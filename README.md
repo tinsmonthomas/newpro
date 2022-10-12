@@ -1,2 +1,4 @@
 # newpro
 demo
+   mvnm,m,/
+   
